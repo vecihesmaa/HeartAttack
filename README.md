@@ -23,7 +23,7 @@ bash
 # Dataset
 The dataset heart.csv contains the following features
 
--[Download here](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
+- [Download here](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
 
 age: Age of the patient
 sex: Gender of the patient (1 = male; 0 = female)
